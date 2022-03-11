@@ -1,0 +1,4 @@
+nombre,edad,yr
+mary,25,1995
+raul,32,1800
+alf,55,5645
